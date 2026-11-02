@@ -1,0 +1,6 @@
+node_modules
+.next
+out
+.claude
+# copied from node_modules by the postinstall script
+public/pdf.worker.min.mjs
